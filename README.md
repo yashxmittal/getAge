@@ -7,8 +7,10 @@ Put the desired age in variable "age"
 
 Install Node LTS : https://nodejs.org/en/download/current.
 
-clone the repository.
-
+clone the repository
+```
+git clone https://github.com/yashxmittal/getAge.git
+```
 Run by giving command
 ``` 
 node ageCalculator
